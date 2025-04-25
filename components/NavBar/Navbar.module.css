@@ -1,0 +1,21 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    height: 72px;
+    padding: 0 8px;
+    padding-bottom: 72px;
+    align-items: center;
+}
+.navbar ul{
+    display: flex;
+    list-style: none;
+    gap: 24px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+.navbar a{
+    text-decoration-line: none;
+}
+.navbar img{
+    padding-top: 20px;
+}
